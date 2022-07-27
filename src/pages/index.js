@@ -10,7 +10,7 @@ const IndexPage = () => {
       <p>I'm making this by following the Gatsby Tutorial.</p>
       <StaticImage
         alt="Layla, a reddish-brown pitbull, posing on a couch and looking stoically at the camera"
-        src="../images/Layla.jpg"
+        src="../images/laily.jpg"
       />
     </Layout>
   )
